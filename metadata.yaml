@@ -1,5 +1,8 @@
 _repo: Creation-of-the-Teton-Landscape-The-Geologic-Story-of-Grand-Teton-National-Park_52838
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52838-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Love, J. D. (John David)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '39117'
     url: http://www.gutenberg.org/2009/agents/39117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52838#Creation-of-the-Teton-Landscape-The-Geologic-Story-of-Grand-Teton-National-Park
 gutenberg_issued: '2016-08-18'
 gutenberg_type: Text
 identifiers:
