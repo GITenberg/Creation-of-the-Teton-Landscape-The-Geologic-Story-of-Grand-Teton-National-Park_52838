@@ -1,0 +1,33 @@
+_repo: Creation-of-the-Teton-Landscape-The-Geologic-Story-of-Grand-Teton-National-Park_52838
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Love, J. D. (John David)
+    aliases:
+    - Love, John David
+    - Love, David
+    birthdate: 1913
+    deathdate: 2002
+    gutenberg_agent_id: '47072'
+    url: http://www.gutenberg.org/2009/agents/47072
+  - agent_name: Reed, John C. (John Calvin)
+    birthdate: 1836
+    deathdate: 1910
+    gutenberg_agent_id: '39117'
+    url: http://www.gutenberg.org/2009/agents/39117
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology -- Wyoming -- Grand Teton National Park'
+- !lcc 'QE'
+- GITenberg
+title: 'Creation of the Teton Landscape: The Geologic Story of Grand Teton National
+  Park'
+url: http://www.gutenberg.org/ebooks/52838
